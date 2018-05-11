@@ -33,7 +33,7 @@ and double-click to import.
 
 Alternatively, select the file from: *iTerm2 > Preferences > Profiles > [Profile] > Color Presets > Import*.
 
-Here’s a shell one-liner in case you’re into that sort of thing
+Here’s a shell one-liner in case you’re into that sort of thing:
 
 ```sh
 $ cd /tmp && curl -LO https://raw.githubusercontent.com/ngscheurich/gloam-iterm2/master/gloam.itermcolors \
