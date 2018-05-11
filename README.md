@@ -29,8 +29,9 @@ Many thanks to [@jacoborus](https://github.com/jacoborus/) and
 ## Installation
 
 Simply download [gloam.itermcolors](https://raw.githubusercontent.com/ngscheurich/gloam-iterm2/master/gloam.itermcolors)
-and double-click it to import it to iTerm2. Alternatively, select the file from
-iTerm2 > Preferences > Profiles > [some profile] > Color Presets > Import.
+and double-click it to import it to iTerm2.
+
+Alternatively, select the file from: *iTerm2 > Preferences > Profiles > [some profile] > Color Presets > Import*.
 
 Here’s a shell one-liner in case you’re into that sort of thing
 
