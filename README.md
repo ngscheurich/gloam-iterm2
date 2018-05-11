@@ -10,7 +10,6 @@ A cool, moody colorscheme for [iTerm2](https://www.iterm2.com/).
   * [Table of Contents](#table-of-contents)
   * [Prior Art](#prior-art)
   * [Installation](#installation)
-  * [Roadmap](#roadmap)
   * [Contibuting](#contibuting)
   * [License](#license)
 
